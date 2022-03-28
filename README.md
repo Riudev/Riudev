@@ -2,7 +2,7 @@
   Hello World! I am <strong>Riu</strong>. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 </h2>
 <p align="center">
-  I am developing a music bot, name Bot spectachill, and the bot still wants to be updated to make it better and neater for every command, </br> You can also join so you can meet Rem and enjoy it after joining the official server <strong> <a href="https://discord.gg/VA9BMv8Fzd">Discord</a></strong>
+  I am developing a music bot, name Bot spectachill, and the bot still wants to be updated to make it better and neater for every command, </br> You can also join so you can meet Rem and enjoy it after joining the official server <strong> <a href="https://discord.gg/kQujhRTdu6">Discord</a></strong>
 </br>
 
 ## My Projects
