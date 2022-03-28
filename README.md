@@ -8,10 +8,13 @@
 ## My Projects
 
 <hr/>
-<p style="color: var(--secondary-text-color);">a bot that does random things!</p>
-        <div class="tada animated"><div role="group" class="btn-group">    <a href="https://github.com/Riudev/SpectaV2" class="btn btn-primary shadow-none" type="button" style="margin: 5px;background-color: var(--main-color);border-color: var(--main-color);border-radius: 10px;">My Projects</a>
-	
-
+<p align="center">
+<p style="color: var(--secondary-text-color);">My first project is Bot discord that is Specta</p>
+        <div class="tada animated"><div role="group" class="btn-group">    <a href="https://github.com/Riudev/SpectaV2" class="btn btn-primary shadow-none" type="button" style="margin: 5px;background-color: var(--main-color);border-color: var(--main-color);border-radius: 10px;">Specta Bot</a>
+<hr/>
+<p style="color: var(--secondary-text-color);">This is Specta Dashboard</p>
+        <div class="tada animated"><div role="group" class="btn-group">    <a href="https://github.com/Riudev/SpectaV2" class="btn btn-primary shadow-none" type="button" style="margin: 5px;background-color: var(--main-color);border-color: var(--main-color);border-radius: 10px;">Dasboard Specta</a>
+<hr/>
 
 
 ## Github Stats  
