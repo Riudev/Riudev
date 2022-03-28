@@ -2,22 +2,26 @@
   Hello World! I am <strong>Riu</strong>. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 </h2>
 <p align="center">
-  I am developing a music bot, namely Bot Rem, and the bot still wants to be updated to make it better and neater for every command, </br> You can also join so you can meet Rem and enjoy it after joining the official server <strong> <a href="https://discord.gg/VA9BMv8Fzd">Discord</a></strong>
+  I am developing a music bot, name Bot spectachill, and the bot still wants to be updated to make it better and neater for every command, </br> You can also join so you can meet Rem and enjoy it after joining the official server <strong> <a href="https://discord.gg/VA9BMv8Fzd">Discord</a></strong>
 </br>
+
+## My Projects
+
+<hr/>
 
 ## Github Stats  
 
 <hr/>
 <p align="center">
-    <a href="https://github.com/Riumaa/">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=ZeroDiscord&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=f04848&ring=f04848&stroke=FFFFFFFF)](https://git.io/streak-stats" />
+    <a href="https://github.com/Riudev/">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=Riudev&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=f04848&ring=f04848&stroke=FFFFFFFF)](https://git.io/streak-stats" />
   </a> 
-  <a href="https://github.com/Riumaa/">
-        <img src="https://github-readme-stats.vercel.app/api?username=Riumaa&show_icons=true&theme=gruvbox" />
+  <a href="https://github.com/Riudev/">
+        <img src="https://github-readme-stats.vercel.app/api?username=Riudev&show_icons=true&theme=gruvbox" />
   </a> 
 <br>
-<a href="https://github.com/Riumaa">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riumaa&theme=gruvbox&langs_count=8&layout=compact" />
+<a href="https://github.com/Riudev">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riudev&theme=gruvbox&langs_count=8&layout=compact" />
   </a>
 </p>
 
