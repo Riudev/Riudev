@@ -16,7 +16,6 @@
         <div class="tada animated"><div role="group" class="btn-group">    <a href="https://github.com/Riudev/SpectaV2" class="btn btn-primary shadow-none" type="button" style="margin: 5px;background-color: var(--main-color);border-color: var(--main-color);border-radius: 10px;">Dasboard Specta</a>
 <hr/>
 
-
 ## Github Stats  
 
 <hr/>
@@ -39,6 +38,6 @@
 <div align="center">
   
 <br/>  
-<img src="https://komarev.com/ghpvc/?username=navaneethkm004&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=Riudev&&style=flat-square" align="center" />
 </div> 
 <br/>
