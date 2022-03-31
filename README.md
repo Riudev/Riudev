@@ -1,9 +1,12 @@
 <h2 align="center">
-  Hello World! I am <strong>Riu</strong>. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+  Hello World! I am <strong>Riu</strong> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 </h2>
 <p align="center">
   I am developing a music bot, name Bot spectachill, and the bot still wants to be updated to make it better and neater for every command, You can also join so you can meet Specta and enjoy it after joining the official server <strong> <a href="https://discord.gg/kQujhRTdu6">Discord</a></strong>
 </br>
+<p>
+    <a href="https://discord.gg/kQujhRTdu6"><img src="https://img.shields.io/discord/222078108977594368?color=5865F2&logo=discord&logoColor=white" alt="Discord server" /></a>
+    <P/>
 
 ## My Projects
 
