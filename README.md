@@ -37,7 +37,7 @@
 ![snake gif](https://raw.githubusercontent.com/navaneethkm004/navaneethkm004/navaneethkm004-patch-2/snek.svg)
 <div align="center">
   
-## SUPPORT ME
+## SUPPORT ME IN LINK BELOW
 
 <div align="center">
             <a href="https://www.buymeacoffee.com/spectachill" target="_blank" style="display: inline-block;">
