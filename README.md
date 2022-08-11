@@ -5,17 +5,8 @@
  Hi I'm Indonesian, I'm a web crawler who makes bots, I'm also learning to master a Front End development <strong> <a href="https://discord.gg/kQujhRTdu6">Discord</a></strong>
 </br>
 
-## My Projects
-
-<hr/>
-<p align="center">
-<p style="color: var(--secondary-text-color);">My first project is Bot discord that is Specta</p>
-        <div class="tada animated"><div role="group" class="btn-group">    <a href="https://github.com/Riudev/SpectaV2" class="btn btn-primary shadow-none" type="button" style="margin: 5px;background-color: var(--main-color);border-color: var(--main-color);border-radius: 10px;">Specta Bot</a>
-<hr/>
-
 ## Github Stats  
 
-<hr/>
 <p align="center">
     <a href="https://github.com/Riudev/">
         <img src="https://github-readme-streak-stats.herokuapp.com?user=Riudev&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=f04848&ring=f04848&stroke=FFFFFFFF)](https://git.io/streak-stats" />
@@ -28,8 +19,6 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riudev&theme=gruvbox&langs_count=8&layout=compact" />
   </a>
 </p>
-
- <hr/>
   
 ## SUPPORT ME IN LINK BELOW
 
