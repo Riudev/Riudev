@@ -2,7 +2,7 @@
   Hello World! I am <strong>Riu</strong> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 </h2>
 <p align="center">
-  I am developing a music bot, name Bot spectachill, and the bot still wants to be updated to make it better and neater for every command, You can also join so you can meet Specta and enjoy it after joining the official server <strong> <a href="https://discord.gg/kQujhRTdu6">Discord</a></strong>
+ Hi I'm Indonesian, I'm a web crawler who makes bots, I'm also learning to master a Front End development <strong> <a href="https://discord.gg/kQujhRTdu6">Discord</a></strong>
 </br>
 
 ## My Projects
@@ -11,9 +11,6 @@
 <p align="center">
 <p style="color: var(--secondary-text-color);">My first project is Bot discord that is Specta</p>
         <div class="tada animated"><div role="group" class="btn-group">    <a href="https://github.com/Riudev/SpectaV2" class="btn btn-primary shadow-none" type="button" style="margin: 5px;background-color: var(--main-color);border-color: var(--main-color);border-radius: 10px;">Specta Bot</a>
-<hr/>
-<p style="color: var(--secondary-text-color);">This is Specta Dashboard</p>
-        <div class="tada animated"><div role="group" class="btn-group">    <a href="https://github.com/Riudev/SpectaV2" class="btn btn-primary shadow-none" type="button" style="margin: 5px;background-color: var(--main-color);border-color: var(--main-color);border-radius: 10px;">Dasboard Specta</a>
 <hr/>
 
 ## Github Stats  
@@ -33,9 +30,6 @@
 </p>
 
  <hr/>
-   
-![snake gif](https://raw.githubusercontent.com/navaneethkm004/navaneethkm004/navaneethkm004-patch-2/snek.svg)
-<div align="center">
   
 ## SUPPORT ME IN LINK BELOW
 
