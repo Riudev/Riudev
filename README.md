@@ -13,14 +13,16 @@
   </a> 
   <a href="https://github.com/Riudev/">
         <img src="https://github-readme-stats.vercel.app/api?username=Riudev&show_icons=true&theme=gruvbox" />
-  </a> 
+  </a>
+
 <br>
+
 <a href="https://github.com/Riudev">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riudev&theme=gruvbox&langs_count=8&layout=compact" />
   </a>
 </p>
   
-## SUPPORT ME IN LINK BELOW
+<br>
 
 <div align="center">
             <a href="https://www.buymeacoffee.com/spectachill" target="_blank" style="display: inline-block;">
