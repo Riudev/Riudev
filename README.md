@@ -9,7 +9,7 @@
 
 <p align="center">
     <a href="https://github.com/Riudev/">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=Riudev&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=f04848&ring=f04848&stroke=FFFFFFFF)](https://git.io/streak-stats" />
+        <img src="https://github-readme-streak-stats.herokuappcom?user=Riudev&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=f04848&ring=f04848&stroke=FFFFFFFF)](https://git.io/streak-stats" />
   </a> 
   <a href="https://github.com/Riudev/">
         <img src="https://github-readme-stats.vercel.app/api?username=Riudev&show_icons=true&theme=gruvbox" />
