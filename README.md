@@ -12,7 +12,7 @@
 
   </a> 
   <a href="https://github.com/Riudev/">
-        <img src="https://github-readme-stats.vercel.app/api?username=Riudev&show_icons=true&theme=gruvbox" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Riudev&show_icons=true&theme=gruvbo" />
   </a>
 
 <br>
