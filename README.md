@@ -7,18 +7,16 @@
 </br>
 
 ## Github Stats  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Riudev&show_icons=true&count_private=true&hide_border=true" align="center"/>
-</div>  
-
-<br/>  
-
-<div align="center">
-  <p>
-  <a href="https://github.com/Riudev">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riudev&amp;layout=compact" alt="Top Langs"></a>
-  </p>
-</div>
+<table>
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api?username=Riudev&text_color=000000&title_color=000000&show_icons=true&bg_color=20,00d5ff,00ff77&hide_title=true&count_private=true" />
+    </td>
+    <td>
+      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riudev&text_color=000000&title_color=000000&show_icons=true&bg_color=20,00d5ff,00ff77&layout=compact">
+    </td>
+  </tr>
+</table>
 
 <br>
 
